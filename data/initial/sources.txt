@@ -1,0 +1,4 @@
+Data Sources:
+census-population-landarea.csv: https://raw.githubusercontent.com/ykzeng/covid-19/master/data/census-population-landarea.csv
+covid_*: Google Cloud Platform (NYT datasets)
+
